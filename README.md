@@ -11,7 +11,7 @@ et la librairie de jeu [Slick 2D](http://slick.ninjacave.com/ "slick2D") pour le
 
 ### Mise en place de Slick2D pour Intellij
 
-*Attention, ces étapes ne doivent être réalisée qu'après le clonage de se projet sur votre machine*
+*Attention, ces étapes ne doivent être réalisées qu'après le clonage de se projet sur votre machine*
 Pour faire fonctionner ce projet sur Intellij, veuillez suivre ces étapes:
  1. Télécharger [la librairie](http://slick.ninjacave.com/slick.zip "télécharger slick2D").
  2. Créez un répertoire "/libs" à la racine de votre module.
@@ -19,4 +19,4 @@ Pour faire fonctionner ce projet sur Intellij, veuillez suivre ces étapes:
  4. Mettre à jour les dépendences Maven.
  5. Dans le menu "Run" -> "Edit Configurations" -> "Configurations" -> "Vm Options" ajoutez la ligne suivante: `-Djava.library.path=MysteryBazookaDisaster/libs`
 
-Le projet devrait maintenant pouvoir fonctionner sur vos machine.
+Le projet devrait maintenant pouvoir fonctionner sur vos machines.
